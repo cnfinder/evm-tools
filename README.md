@@ -10,12 +10,14 @@ See the [analysis/guide.md](analysis/guide.md) for an extensive guide of the EVM
 
 # Install
 
-Uses [`dep`](https://github.com/golang/dep) for dependencies and `make` to build
+
 all tools: 
 
+进入各自文件价下
 ```
-dep ensure
-make
+go build 
+
+
 ```
 
 See the [install instructions](INSTALL.md) for more details.

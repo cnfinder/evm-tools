@@ -5,7 +5,7 @@
 - [Install Go](https://golang.org/doc/install)
 - [Set the `$GOPATH` variable](https://github.com/golang/go/wiki/SettingGOPATH)
 - Add `$GOPATH/bin` to your `$PATH`
-- [Install dep](https://github.com/golang/dep#installation)
+
 
 
 ## evm-tools
